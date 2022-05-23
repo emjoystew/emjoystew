@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/emilyj-stewart/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.hackerrank.com/ejoystew/">
+      <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+    </a>
   </div>
   <h1>
     Hi, I'm Emily!
@@ -36,7 +39,7 @@ I am a a Junior DevOps Engineer and Aspiring Data Analyst <img src="https://medi
 <div>
   <div id="code">
     <img alt="HTML" src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5"/>
-    <img alt="Python" src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python"/>
+    <img alt="Python" src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python&logoColor=yellow"/>
     <img alt="SQL" src="https://img.shields.io/badge/Code-SQL-blue?style=for-the-badge&logo=postgresql"/>
     <img alt="R" src="https://img.shields.io/badge/Code-R-lightgrey?style=for-the-badge&logo=r"/>
   </div>
@@ -47,6 +50,7 @@ I am a a Junior DevOps Engineer and Aspiring Data Analyst <img src="https://medi
   <br>
   <div id="tools">
     <img alt="AWS" src="https://img.shields.io/badge/Tools-AWS-orange?style=for-the-badge&logo=amazon-aws"/>
+    <img alt="Git" src="https://img.shields.io/badge/Tools-Git-red?style=for-the-badge&logo=git"/>
     <img alt="Github" src="https://img.shields.io/badge/Tools-Github-black?style=for-the-badge&logo=github"/>
     <img alt="Tableau" src="https://img.shields.io/badge/Tools-Tableau-blue?style=for-the-badge&logo=tableau"/>
   </div>
