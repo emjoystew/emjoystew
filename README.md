@@ -17,21 +17,24 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a a Junior DevOps Engineer and Aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Junior DevOps Engineer and aspiring Data Analyst from the USA.
 
 ---
 
 ### :eyeglasses: What I'm currently working on :
 
-- 1
-- 2
+- 1. Finishing up freeCodeCamp's Scientific Computing with Python Certification projects (3/5)
+- 2. Reading "Automate the Boring Stuff with Python"
+- 3. Studying to earn my AWS Cloud Practitioner certificate through SheBuilds
+- 4. Building a personal website using Django! 
 
 ---
 
 ### :seedling: What I'm currently learning :
 
-- 1
-- 2
+- 1. Pandas, Matplotlib, NumPy
+- 2. R and Machine Learning (inspired by the Twitch apprenticeship!)
+- 3. More advanced Python and SQL skills, to continue my learning from my bootcamp.
 
 ---
 
